@@ -4,7 +4,7 @@
 - 📫 How to reach me → leleomesquita@gmail.com
 
 <h1>Some links to GitHub Pages</h1>
-<a href="https://wishwebdev.github.io/">wishwebdev.github.io</a><br>
-<a href="https://wishwebdev.github.io/fiancailles/">fiancailles</a><br>
-<a href="https://wishwebdev.github.io/2-ViaAtendimento/">2-ViaAtendimento</a><br>
-<a href="https://wishwebdev.github.io/schedule/">schedule</a>
+<a href="https://wishwebdev.github.io/" target="_blank">wishwebdev.github.io</a><br>
+<a href="https://wishwebdev.github.io/fiancailles/" target="_blank">fiancailles</a><br>
+<a href="https://wishwebdev.github.io/2-ViaAtendimento/" target="_blank">2-ViaAtendimento</a><br>
+<a href="https://wishwebdev.github.io/schedule/" target="_blank">schedule</a>
