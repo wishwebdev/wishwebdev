@@ -6,5 +6,5 @@
 <h1>Some links to GitHub Pages</h1>
 <a href="https://wishwebdev.github.io/">wishwebdev.github.io</a><br>
 <a href="https://wishwebdev.github.io/fiancailles/">fiancailles</a><br>
-<a href="https://wishwebdev.github.io/2ViaRegCivil/">2ViaRegCivil</a><br>
+<a href="https://wishwebdev.github.io/2-ViaAtendimento/">2-ViaAtendimento</a><br>
 <a href="https://wishwebdev.github.io/schedule/">schedule</a>
